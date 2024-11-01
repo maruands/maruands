@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hey 👋, I'm Andrew Kimaru
+
+I'm a passionate software developer focused on backend development, skilled in Java EE, Python, and frameworks like Flask and Spring Boot. I thrive in building efficient, scalable server-side applications and crafting seamless integrations.
+
+Though my primary focus is backend, I also enjoy working with front-end technologies. With React.js, I bring intuitive and dynamic user experiences to life, ensuring a smooth journey from backend to frontend.
+
+🌐 Technical Stack:
+
+Backend: Java EE, Python, Flask, Spring Boot, Laravel
+Frontend: React.js
+Tools & Databases: [mysql, postgres, sqlite.]
+Let’s build something great together! ✨
+
+---
 
 <!--
 **maruands/maruands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
