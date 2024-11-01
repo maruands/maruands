@@ -1,4 +1,4 @@
-# Hey 👋, I'm Andrew Kimaru
+# Hey 👋,
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3969763445724f6259517672572f67697068792e676966](https://github.com/user-attachments/assets/ea39a01e-7fbd-4cef-b6e7-c049f1e1ac43)
 ---
 
