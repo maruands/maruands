@@ -1,6 +1,9 @@
+
 # Hey 👋,
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3969763445724f6259517672572f67697068792e676966](https://github.com/user-attachments/assets/ea39a01e-7fbd-4cef-b6e7-c049f1e1ac43)
----
+<div style="text-align:center">
+  <img width="100%" src="https://github.com/user-attachments/assets/ea39a01e-7fbd-4cef-b6e7-c049f1e1ac43" alt="Material Bread logo">
+</div>
+  ---
 
 
 I'm a passionate software developer focused on backend development, skilled in Java EE, Python, and frameworks like Flask and Spring Boot. I thrive in building efficient, scalable server-side applications and crafting seamless integrations.
